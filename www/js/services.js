@@ -53,3 +53,6 @@ angular.module('app.services', [])
     return ret;
 
 }]);
+
+
+//Donatum est!
